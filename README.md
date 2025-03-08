@@ -1,21 +1,39 @@
-Welcome to the **Responsive-Startup-Website** project! 
-This is a simple website for a fictional startup company. The site includes the homepage, portfolio, and services pages, featuring sections like team profiles, client logos, services, and more.
+# Responsive Startup Website  
+
+A modern, fully responsive startup website template built with **HTML, CSS, and JavaScript**. This project is designed for startups, SaaS businesses, and entrepreneurs looking for a sleek and professional online presence.  
+
+## Features  
+
+- Fully Responsive – Works perfectly on all devices (mobile, tablet, and desktop).  
+- Clean & Minimal Design – Professional, user-friendly, and aesthetically pleasing.  
+- Smooth Animations – Engaging interactions to enhance user experience.  
+- Easy Customization – Well-structured code for effortless modifications.  
+- Optimized Performance – Fast loading times and SEO-friendly.  
+
+## Technologies Used  
+
+- **HTML5** – For semantic and structured content.  
+- **CSS3** – Including Flexbox, Grid, and animations.  
+- **JavaScript (Vanilla JS)** – For dynamic and interactive elements.  
 
 
-## Project Description
+## Getting Started  
 
-The Small Startup website showcases the services, portfolio, and team of a fictional startup. The site includes a responsive layout, social media links, and various sections such as "Home", "Portfolio", "Services", and "Contact". This project demonstrates basic web development skills with HTML, CSS, and  JavaScript.
+1. Clone the Repository:  
+   ```sh
+   git clone https://github.com/joaoalmeidavt/responsive-startup-website.git
+   cd startup-website
+2. Open the Project:
+Simply open index.html in your browser.
 
-## Features
+3.Customization
+You can easily modify colors, fonts, and layout by editing style.css
 
-- **Responsive Design**: The website is fully responsive and adapts to different screen sizes.
-- **Navigation**: A functional navigation bar that allows users to easily move between the homepage, portfolio, services, and contact pages.
-- **Portfolio Gallery**: The portfolio page displays sample images to showcase the startup’s work.
-- **Service Packages**: The services page offers different service packages with prices, features, and descriptions.
-- **Team Section**: Profiles of key team members are featured on the homepage.
-- **Footer**: Social media icons and copyright information in the footer.
-
+## Preview 
 ![image](https://github.com/user-attachments/assets/72ff8771-3087-4dd9-942e-ca17b1ad7c1b)
+
+License
+This project is open-source and available under the MIT License.
 
 
 
