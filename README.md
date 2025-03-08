@@ -26,7 +26,7 @@ A modern, fully responsive startup website template built with **HTML, CSS, and 
 2. Open the Project:
 Simply open index.html in your browser.
 
-3.Customization
+##Customization
 You can easily modify colors, fonts, and layout by editing style.css
 
 ## Preview 
