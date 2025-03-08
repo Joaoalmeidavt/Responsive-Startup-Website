@@ -12,9 +12,9 @@ A modern, fully responsive startup website template built with **HTML, CSS, and 
 
 ## Technologies Used  
 
-- **HTML5** – For semantic and structured content.  
-- **CSS3** – Including Flexbox, Grid, and animations.  
-- **JavaScript (Vanilla JS)** – For dynamic and interactive elements.  
+- **HTML** – For semantic and structured content.  
+- **CSS** – Including Flexbox, Grid, and animations.  
+- **JavaScript ** – For dynamic and interactive elements.  
 
 
 ## Getting Started  
