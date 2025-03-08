@@ -1,16 +1,9 @@
-# Small Startup
+![image](https://github.com/user-attachments/assets/ad885216-ba3a-4d25-9da2-52deed727d12)# Small Startup
 
 Welcome to the **Small Startup** project! This is a simple website for a fictional startup company. The site includes the homepage, portfolio, and services pages, featuring sections like team profiles, client logos, services, and more.
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Features](#features)
-- [File Structure](#file-structure)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+![image](https://github.com/user-attachments/assets/bf8c02ff-9452-4c30-84e1-71701b0f08de)
+
 
 ## Project Description
 
