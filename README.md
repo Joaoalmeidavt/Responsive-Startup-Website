@@ -15,6 +15,7 @@ The Small Startup website showcases the services, portfolio, and team of a ficti
 - **Team Section**: Profiles of key team members are featured on the homepage.
 - **Footer**: Social media icons and copyright information in the footer.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/72ff8771-3087-4dd9-942e-ca17b1ad7c1b)
+
 
 
