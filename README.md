@@ -1,8 +1,29 @@
-# Responsive Startup Website
+# Small Startup
 
-A Tutorial for beginners on how to develop responsive websites using HTML & CSS
+Welcome to the **Small Startup** project! This is a simple website for a fictional startup company. The site includes the homepage, portfolio, and services pages, featuring sections like team profiles, client logos, services, and more.
 
-![project image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ybd2otx2xwopmx4ahkra.png)
+## Table of Contents
+- [Project Description](#project-description)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [view the live demo 🚀](https://responsive-startup-website.vercel.app/)
-- [download the design files here](https://www.figma.com/community/file/1150370769219258177)
+## Project Description
+
+The Small Startup website showcases the services, portfolio, and team of a fictional startup. The site includes a responsive layout, social media links, and various sections such as "Home", "Portfolio", "Services", and "Contact". This project demonstrates basic web development skills with HTML, CSS, and simple JavaScript.
+
+## Features
+
+- **Responsive Design**: The website is fully responsive and adapts to different screen sizes.
+- **Navigation**: A functional navigation bar that allows users to easily move between the homepage, portfolio, services, and contact pages.
+- **Portfolio Gallery**: The portfolio page displays sample images to showcase the startup’s work.
+- **Service Packages**: The services page offers different service packages with prices, features, and descriptions.
+- **Team Section**: Profiles of key team members are featured on the homepage.
+- **Footer**: Social media icons and copyright information in the footer.
+
+## File Structure
+
