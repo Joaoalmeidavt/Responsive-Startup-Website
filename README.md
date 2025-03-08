@@ -1,13 +1,10 @@
-![image](https://github.com/user-attachments/assets/ad885216-ba3a-4d25-9da2-52deed727d12)# Small Startup
-
-Welcome to the **Small Startup** project! This is a simple website for a fictional startup company. The site includes the homepage, portfolio, and services pages, featuring sections like team profiles, client logos, services, and more.
-
-![image](https://github.com/user-attachments/assets/bf8c02ff-9452-4c30-84e1-71701b0f08de)
+Welcome to the **Responsive-Startup-Website** project! 
+This is a simple website for a fictional startup company. The site includes the homepage, portfolio, and services pages, featuring sections like team profiles, client logos, services, and more.
 
 
 ## Project Description
 
-The Small Startup website showcases the services, portfolio, and team of a fictional startup. The site includes a responsive layout, social media links, and various sections such as "Home", "Portfolio", "Services", and "Contact". This project demonstrates basic web development skills with HTML, CSS, and simple JavaScript.
+The Small Startup website showcases the services, portfolio, and team of a fictional startup. The site includes a responsive layout, social media links, and various sections such as "Home", "Portfolio", "Services", and "Contact". This project demonstrates basic web development skills with HTML, CSS, and  JavaScript.
 
 ## Features
 
@@ -18,5 +15,6 @@ The Small Startup website showcases the services, portfolio, and team of a ficti
 - **Team Section**: Profiles of key team members are featured on the homepage.
 - **Footer**: Social media icons and copyright information in the footer.
 
-## File Structure
+![Uploading image.png…]()
+
 
