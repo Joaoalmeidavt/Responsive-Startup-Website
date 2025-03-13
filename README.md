@@ -1,4 +1,4 @@
-# Responsive Startup Website  
+# Responsive Startup Website   
 
 A modern, fully responsive startup website template built with **HTML, CSS, and JavaScript**. This project is designed for startups, SaaS businesses, and entrepreneurs looking for a sleek and professional online presence.  
 
